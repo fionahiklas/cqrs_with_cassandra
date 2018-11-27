@@ -55,6 +55,7 @@ mvn verify
 
 ### Cassandra
 
+* [Apache Cassandra](http://cassandra.apache.org/)
 * [Tutorial](https://teddyma.gitbooks.io/learncassandra/content/index.html)
 
 
@@ -65,3 +66,9 @@ mvn verify
 ### Logging
 
 * [log4j tutorial](https://www.baeldung.com/java-logging-intro)
+
+### Testing
+
+* [Mark integration tests](https://stackoverflow.com/questions/2606572/junit-splitting-integration-test-and-unit-tests)
+* [Maven surefire plugin](http://maven.apache.org/surefire/maven-surefire-plugin/index.html)
+* [Maven profiles](https://maven.apache.org/guides/introduction/introduction-to-profiles.html)
