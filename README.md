@@ -57,6 +57,9 @@ mvn verify
 
 * [Apache Cassandra](http://cassandra.apache.org/)
 * [Tutorial](https://teddyma.gitbooks.io/learncassandra/content/index.html)
+* [Update documentation](https://docs.datastax.com/en/cql/3.3/cql/cql_reference/cqlUpdate.html)
+* [Counters](https://www.datastax.com/dev/blog/whats-new-in-cassandra-2-1-a-better-implementation-of-counters)
+
 
 
 ### Spark
